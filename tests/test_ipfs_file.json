@@ -1,0 +1,6 @@
+{ 
+    "name": "PURPLE ART",
+    "description": "Purple BG ART",
+    "image": "https://ipfs.io/ipfs/QmW9vdfV5Mz6vjwg47PdvcFh7gF6a3jjaQxj2gpVj7zxcp?filename=purple.jpg",
+    "attributes": [{"trait_type": "attraction", "value": 100}]
+}
